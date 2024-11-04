@@ -2,6 +2,8 @@
 
 This repository contains a project for detecting metastatic cancer in histopathologic images of lymph node sections. The task is part of a Kaggle competition where the goal is to build a binary classifier to identify whether a small 96x96 pixel pathology image contains tumor tissue. 
 
+https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
+
 ## Project Overview
 
 In this project, two models are explored:
